@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekddevarmani&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekddevarmani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdevarmani&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdevarmani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishekdd3" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekdd3?logo=twitter&style=for-the-badge" alt="abhishekdd3" /></a> </p>
 
@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/9902570822-2@ibl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="9902570822-2@ibl" /></a><a href="https://ko-fi.com/9902570822-2@ibl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="9902570822-2@ibl" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekddevarmani&show_icons=true&locale=en&layout=compact" alt="abhishekddevarmani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekdevarmani&show_icons=true&locale=en&layout=compact" alt="abhishekdevarmani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekddevarmani&show_icons=true&locale=en" alt="abhishekddevarmani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekdevarmani&show_icons=true&locale=en" alt="abhishekdevarmani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekddevarmani&" alt="abhishekddevarmani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdevarmani&" alt="abhishekdevarmani" /></p>
